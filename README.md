@@ -26,8 +26,8 @@ acessos negados.
 
 Qualidade da solução do problema apresentado atendendo ao escopo do desenvolvimento (3,0 pontos), observando os seguintes cenários:
 
-1. Ao menos um cadastro, contemplando: inclusão, exclusão, alteração e listagem (1,0 pontos).
-1. Registro (inclusão, exclusão, alteração e listagem) de ao menos um tipo de emissão de documento, movimentação, log de uso, jogada do jogador, etc. (1,0 pontos).
+* Ao menos um cadastro, contemplando: inclusão, exclusão, alteração e listagem (1,0 pontos).
+* Registro (inclusão, exclusão, alteração e listagem) de ao menos um tipo de emissão de documento, movimentação, log de uso, jogada do jogador, etc. (1,0 pontos).
 Geração de ao menos um relatório/pesquisa de registros armazenados (1,0 pontos).
 Qualidade da notação UML no diagrama de classes e sua consistência com o código (0,5 pontos).
 Interface Gráfica Java Swing funcional. A interface gráfica deve ter sido completamente desenvolvida de forma manual, sem apoio de ferramenta para desenhar a tela. (1,5 pontos)
