@@ -22,7 +22,7 @@ acesso para tal, são registrado e, em caso de três tentativas consecutivas, te
 O sistema emite relatórios informativos referente aos acessos realizados com sucesso e os
 acessos negados.
 
-#### **Critérios de Avaliação:
+#### Critérios de Avaliação:
 
 Qualidade da solução do problema apresentado atendendo ao escopo do desenvolvimento (3,0 pontos), observando os seguintes cenários:
 
